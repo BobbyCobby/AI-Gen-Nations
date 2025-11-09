@@ -29,8 +29,8 @@ This aligns with Israel’s historical and modern attributes, while offering int
 				"[+1 Happiness] from every [City-State]",
 				"[+50]% Great Person generation [in all cities]",
 				// "[+2 Gold] from [Desert] tiles [in all cities]", // not working
-				"Double quantity of [Iron] produced",
-				"Double quantity of [Incense] produced",
+				"[+100]% [Iron] resource production",
+				"[+100]% [Incense] resource production",
 				// "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion" // not working
 		],
 		"startIntroPart1": "Hail, O great King Solomon, the wise and mighty ruler of ancient Israel. Known for your unmatched wisdom and your glorious temple in Jerusalem, you have inspired countless generations. From the deserts of the Negev to the hills of Judea, your people thrive under your enlightened rule.",
